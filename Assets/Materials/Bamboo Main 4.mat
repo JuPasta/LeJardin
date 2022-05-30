@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bamboo Foliage
+  m_Name: Bamboo Main 4
   m_Shader: {fileID: 4800000, guid: 128c5f1edaefa4c4fb3f9f7a4615edb2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -77,11 +77,11 @@ Material:
     - _MaxAtten: 0.342
     - _MaxLight: 0.895
     - _Metallic: 0
-    - _MinLight: 0.42
+    - _MinLight: 0.5
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Offset: 0.71
-    - _OtlWidth: 1
+    - _Offset: 0.4
+    - _OtlWidth: 0
     - _Parallax: 0.02
     - _PostAtten: 0
     - _RimIntense: 0.552
@@ -107,7 +107,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.60373443, g: 0.8301887, b: 0.37123528, a: 1}
+    - _Color: {r: 0.7239811, g: 0.83137256, b: 0.38039216, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaxColor: {r: 0, g: 0.76902664, b: 0.8113208, a: 1}
     - _MinColor: {r: 0, g: 0, b: 0, a: 1}
