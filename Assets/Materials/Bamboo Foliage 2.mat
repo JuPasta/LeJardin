@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bamboo Secondary 1
+  m_Name: Bamboo Foliage 2
   m_Shader: {fileID: 4800000, guid: 128c5f1edaefa4c4fb3f9f7a4615edb2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -77,10 +77,10 @@ Material:
     - _MaxAtten: 0.342
     - _MaxLight: 0.895
     - _Metallic: 0
-    - _MinLight: 0.698
+    - _MinLight: 0.5
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Offset: -0.36
+    - _Offset: 0.48
     - _OtlWidth: 1
     - _Parallax: 0.02
     - _PostAtten: 0
@@ -107,11 +107,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.56574446, g: 0.5849056, b: 0.24499819, a: 1}
+    - _Color: {r: 0.4013291, g: 0.7169812, b: 0.34766823, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaxColor: {r: 0, g: 0.76902664, b: 0.8113208, a: 1}
     - _MinColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OtlColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OtlColor: {r: 0.06666667, g: 0.2, b: 0.07450981, a: 1}
     - _RimColor: {r: 1, g: 0.9904847, b: 0.8160377, a: 1}
     - _ShnColor: {r: 0.9574096, g: 1, b: 0.7294118, a: 1}
     - _SpcColor: {r: 1, g: 1, b: 1, a: 1}
