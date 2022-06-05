@@ -71,13 +71,13 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 1
     - _Lumin: 0.17
-    - _MaxLight: 1
+    - _MaxLight: 0.8
     - _Metallic: 0
-    - _MinLight: 0.56
+    - _MinLight: 0.45
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Offset: 0.25
-    - _OtlWidth: 1
+    - _Offset: -0.47
+    - _OtlWidth: 0
     - _Parallax: 0.02
     - _Segmented: 1
     - _ShnIntense: 0
@@ -87,13 +87,13 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Steps: 3
+    - _Steps: 1
     - _StpSmooth: 0
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OtlColor: {r: 0.08347686, g: 0.18867922, b: 0.07903167, a: 1}
+    - _OtlColor: {r: 0.30683514, g: 0.3679245, b: 0.36609066, a: 1}
     - _ShnColor: {r: 0, g: 1, b: 0.697006, a: 1}
   m_BuildTextureStacks: []
